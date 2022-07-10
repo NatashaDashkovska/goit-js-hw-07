@@ -1,0 +1,9 @@
+.image {
+  display: flex;
+  width: 370px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+}
